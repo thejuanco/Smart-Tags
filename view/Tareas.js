@@ -6,6 +6,7 @@ import ListarTareas from '../components/ListarTareas'
 import { generarId } from '../helpers'
 
 const Tareas = () => {
+  //Definiendo los estados de la app
   const [modal, setModal] = useState(false)
   const [tarea, setTarea] = useState({})
   const [tareas, setTareas] = useState([])
@@ -30,6 +31,8 @@ const Tareas = () => {
   return (
     <View>
       <Modal
+      //Modal de para el formulario de las tareas
+        //Animacion del modal
         animationType='slide'
         visible={modal}
       >

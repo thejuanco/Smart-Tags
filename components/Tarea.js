@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, View, StyleSheet } from 'react-native'
+import { Text, View, StyleSheet, Pressable } from 'react-native'
 import globalStyles from '../src/styles'
 import { formatearFecha } from '../helpers'
 

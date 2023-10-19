@@ -5,6 +5,8 @@ import Tarea from './Tarea'
 const ListarTareas = ({tareas}) => {
   return (
     <View>
+      {//En este archivo se listan las tareas
+      }
       {tareas.map( tarea => (
         <Tarea
             tarea={tarea}
