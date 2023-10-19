@@ -2,6 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+Repositorio de Smart la agenda inteligente, es una poderosa aplicación de gestión del tiempo y agenda diseñada para ayudarte a maximizar tu productividad y mantener un equilibrio saludable entre el trabajo y la vida personal. Con una interfaz intuitiva y funciones personalizables, Smart te permite organizar tus tareas diarias, establecer recordatorios y priorizar tus actividades de manera eficiente.
+
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
