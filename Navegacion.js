@@ -14,6 +14,8 @@ import Tareas from "./view/Tareas";
 import Calendario from "./view/Calendario";
 import Perfil from "./view/Perfil";
 import Configuracion from "./view/Configuracion";
+import Card1 from "./view/Card1";
+import Card2 from "./view/Card2";
 
 
 // Creando la variable
@@ -36,6 +38,8 @@ function MyStack(){
 
         }}
       />
+      <Stack.Screen name="Card1" component={Card1}/>
+      <Stack.Screen name="Card2" component={Card2}/>
     </Stack.Navigator>
   )
 }
